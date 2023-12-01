@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EzShop</string>
+    <string name="rightAdress">Shopping Make Easy With Our App</string>
+    <string name="tvQuality">Let\'s Go Click the Start Button to Continoue</string>
 </resources>
