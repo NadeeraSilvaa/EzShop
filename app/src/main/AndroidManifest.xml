@@ -10,7 +10,14 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-
-        tools:targetApi="31" />
+        android:theme="@style/Theme.EzShop"
+        tools:targetApi="31">
+        <activity
+            android:name=".activities.ShoppingActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.LoginRegisterActivity"
+            android:exported="false" />
+    </application>
 
 </manifest>
